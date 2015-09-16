@@ -101,7 +101,6 @@ require('config.php');
                           </h3>
                           <div class="pull-right position">
                             Realtime update every 3 hour
-                          	<b><?php //echo getWorkshopInfo("subscription_end_on"); ?></b>
                           </div>
                       </div>
                       <div class="inbox-body">
