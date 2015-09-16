@@ -82,8 +82,7 @@ require('config.php');
                       <div class="inbox-head">
                           <h3>Analytics</h3>
                           <div class="pull-right position">
-                            <!-- getWorkshopInfo("subscription_end_on")) -->
-                          	<b><?php //echo getWorkshopInfo("subscription_end_on"); ?></b>
+                            
                           </div>
                       </div>
                       <div class="inbox-body">
